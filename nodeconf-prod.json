@@ -5,7 +5,7 @@
         "nodename": "tools-prod",
         "osArch": "amd64",
         "osFamily": "unix",
-        "username": "dev",
+        "username": "rundeck",
         "ssh-key-storage-path": "keys/tools-ssh"
     }
 }
