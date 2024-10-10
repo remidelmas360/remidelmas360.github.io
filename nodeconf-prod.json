@@ -1,0 +1,11 @@
+{
+    "tools.prod": {
+        "description": "Remote SSH to tools.prod",
+        "hostname": "10.0.12.1",
+        "nodename": "tools-prod",
+        "osArch": "amd64",
+        "osFamily": "unix",
+        "username": "dev",
+        "ssh-key-storage-path": "keys/tools-ssh"
+    }
+}
