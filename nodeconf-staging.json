@@ -1,0 +1,11 @@
+{
+    "tools.staging": {
+        "description": "Remote SSH server test",
+        "hostname": "10.0.10.6",
+        "nodename": "tools-staging",
+        "osArch": "amd64",
+        "osFamily": "unix",
+        "username": "dev",
+        "ssh-key-storage-path": "keys/tools-ssh"
+    }
+}
